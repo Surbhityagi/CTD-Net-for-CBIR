@@ -1,0 +1,2 @@
+# CTD-Net-for-CBIR
+This repository presents an advanced CTD-Net Image Retrieval System that integrates handcrafted features (color & texture) with deep features extracted from EfficientNet-B7 to enhance image retrieval accuracy. By combining low-level and high-level feature representations, this approach significantly improves retrieval precision, achieving 98.85% on Corel-1K and 92.40% on Corel-10K datasets.
