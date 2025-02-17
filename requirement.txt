@@ -1,0 +1,15 @@
+## **Requitrements**
+- numpy
+- pandas
+- scipy
+- opencv-python
+- pillow
+- scikit-image
+- pywavelets
+- scikit-learn
+- torch
+- torchvision
+- tensorflow
+- keras
+- matplotlib
+
