@@ -24,12 +24,12 @@ CTD-Net-for CBIR/
 
 # About Dataset
 Corel-1K Dataset
-Size: 1000 images
-Classes: 10 categories (100 images per category)
-Download: [Corel-1K](https://www.kaggle.com/datasets/elkamel/corel-images)
+•	Size: 1000 images
+•	Classes: 10 categories (100 images per category)
+•	Download: [Corel-1K](https://www.kaggle.com/datasets/elkamel/corel-images)
 
 Corel-10K Dataset
-Size: 10,000 images
-Classes: Multiple categories
-Download: [Corel-10K](https://www.kaggle.com/datasets/michelwilson/corel10k)
+•	Size: 10,000 images
+•	Classes: Multiple categories
+•	Download: [Corel-10K](https://www.kaggle.com/datasets/michelwilson/corel10k)
 
