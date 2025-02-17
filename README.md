@@ -15,7 +15,7 @@ This research explores **various similarity distance measures** to evaluate retr
 ### **Dataset/**  
 Contains dataset links for **Corel-1K** and **Corel-10K**.  
  **Files Included:**  
-- 📄 [`Dataset_Links.txt`](Dataset/Dataset_Links.txt) → Contains URLs to download datasets  
+- 📄 [`Dataset_Links.txt`](Dataset/Dataset Links.txt) → Contains URLs to download datasets  
 
 ---
 
@@ -98,20 +98,4 @@ If you find **CTD-Net** useful in your research, please consider citing:
   journal={The Visual Computer},
   year={2024}
 }
-
-## Requitrements
-- numpy
-- pandas
-- scipy
-- opencv-python
-- pillow
-- scikit-image
-- pywavelets
-- scikit-learn
-- torch
-- torchvision
-- tensorflow
-- keras
-- matplotlib
-- seaborn
 
