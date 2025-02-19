@@ -14,35 +14,35 @@ This code is provided to supplement our proposed work submitted to _The Visual C
 ### **Dataset/**  
 Contains dataset links for **Corel-1K** and **Corel-10K**.  
  **Files Included:**  
-- 📄 [`Dataset_Links.txt`](Dataset/Dataset Links.txt) → Contains URLs to download datasets  
+- [`Dataset_Links.txt`](Dataset/Dataset Links.txt) → Contains URLs to download datasets  
 
 ---
 
 ### **Models/**  
 Includes all handcrafted models along with the pre-trained **EfficientNet-B7** model.  
  **Files Included:**  
-- 📄 [`All_Models.ipynb`](Models/All_Models.ipynb) → Contains feature extraction models  
+- [`All_Models.ipynb`](Models/All_Models.ipynb) → Contains feature extraction models  
 
 ---
 
 ### **src/**  
 Contains the main source code for **feature extraction, similarity measurement, and ranking**.  
  **Files Included:**  
-- 📄 [`CTD_Net_for_CBIR.ipynb`](src/CTD_Net_for_CBIR.ipynb) → Code for feature extraction, similarity metrics, and ranking  
+- [`CTD_Net_for_CBIR.ipynb`](src/CTD_Net_for_CBIR.ipynb) → Code for feature extraction, similarity metrics, and ranking  
 
 ---
 
 ### **Results/**  
 Stores output evaluation results generated after running the model.  
  **Files Included:**  
-- 📄 [`Corel_10K.xlsx`](Results/Corel_10K.xlsx) → Evaluation results for Corel-10K dataset  
-- 📄 [`Corel_1K.xlsx`](Results/Corel_1K.xlsx) → Evaluation results for Corel-1K dataset  
+- [`Corel_10K.xlsx`](Results/Corel_10K.xlsx) → Evaluation results for Corel-10K dataset  
+- [`Corel_1K.xlsx`](Results/Corel_1K.xlsx) → Evaluation results for Corel-1K dataset  
 
 ---
 
 ### **Other Files**  
-- 📄 [`README.md`](README.md) → Documentation and usage instructions  
-- 📄 [`requirements.txt`](requirements.txt) → Dependencies for setting up the environment  
+- [`README.md`](README.md) → Documentation and usage instructions  
+- [`requirements.txt`](requirements.txt) → Dependencies for setting up the environment  
 
 
 ---
