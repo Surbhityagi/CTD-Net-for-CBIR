@@ -93,7 +93,7 @@ If you find **CTD-Net** useful in your research, please consider citing:
 @article{Surbhi2024HybridRetrieval,
   title={Enhanced Content-Based Image Retrieval via Hybrid Color, Texture, and Deep Learning Features},
   author={Surbhi Tyagi, Praveen Shukla, Partap Singh, Hitesh Tekchandani},
-  journal={The Visual Computer},
+  journal={},
   year={2024}
 }
 
