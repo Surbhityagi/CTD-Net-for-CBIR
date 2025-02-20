@@ -6,7 +6,6 @@
 ##  Overview  
 This repository implements a **Hybrid Image Retrieval System (CTD-Net)** that combines **handcrafted features (color & texture)** with **deep features extracted from EfficientNet-B7** to improve image retrieval accuracy. The hybrid approach significantly enhances retrieval performance on **Corel-1K** and **Corel-10K** datasets, achieving **98.85% and 92.40% precision**, respectively. This research explores **various similarity distance measures** to evaluate retrieval effectiveness and validate the performance of the hybrid model.  
 
-This code is provided to supplement our proposed work submitted to _The Visual Computer_.
 ---
 
 ##  Repository Structure  
